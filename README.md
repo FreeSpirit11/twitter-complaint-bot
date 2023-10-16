@@ -7,8 +7,8 @@ The Twitter Complaint Bot automates the process of checking your internet speed 
 - [Installation](#installation)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
-- [Contributing](#contributing)
-- [License](#license)
+- [Acknowledgement](#acknowledgement)
+- [Author](#author)
 
 ## Prerequisites
 
